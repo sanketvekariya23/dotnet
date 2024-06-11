@@ -1,0 +1,15 @@
+C:\Users\sanket vekariya\OneDrive\Desktop\my_codes\dotnet\decision_control\bin\Debug\net8.0\decision_control.exe
+C:\Users\sanket vekariya\OneDrive\Desktop\my_codes\dotnet\decision_control\bin\Debug\net8.0\decision_control.deps.json
+C:\Users\sanket vekariya\OneDrive\Desktop\my_codes\dotnet\decision_control\bin\Debug\net8.0\decision_control.runtimeconfig.json
+C:\Users\sanket vekariya\OneDrive\Desktop\my_codes\dotnet\decision_control\bin\Debug\net8.0\decision_control.dll
+C:\Users\sanket vekariya\OneDrive\Desktop\my_codes\dotnet\decision_control\bin\Debug\net8.0\decision_control.pdb
+C:\Users\sanket vekariya\OneDrive\Desktop\my_codes\dotnet\decision_control\obj\Debug\net8.0\decision_control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanket vekariya\OneDrive\Desktop\my_codes\dotnet\decision_control\obj\Debug\net8.0\decision_control.AssemblyInfoInputs.cache
+C:\Users\sanket vekariya\OneDrive\Desktop\my_codes\dotnet\decision_control\obj\Debug\net8.0\decision_control.AssemblyInfo.cs
+C:\Users\sanket vekariya\OneDrive\Desktop\my_codes\dotnet\decision_control\obj\Debug\net8.0\decision_control.csproj.CoreCompileInputs.cache
+C:\Users\sanket vekariya\OneDrive\Desktop\my_codes\dotnet\decision_control\obj\Debug\net8.0\decision_control.sourcelink.json
+C:\Users\sanket vekariya\OneDrive\Desktop\my_codes\dotnet\decision_control\obj\Debug\net8.0\decision_control.dll
+C:\Users\sanket vekariya\OneDrive\Desktop\my_codes\dotnet\decision_control\obj\Debug\net8.0\refint\decision_control.dll
+C:\Users\sanket vekariya\OneDrive\Desktop\my_codes\dotnet\decision_control\obj\Debug\net8.0\decision_control.pdb
+C:\Users\sanket vekariya\OneDrive\Desktop\my_codes\dotnet\decision_control\obj\Debug\net8.0\decision_control.genruntimeconfig.cache
+C:\Users\sanket vekariya\OneDrive\Desktop\my_codes\dotnet\decision_control\obj\Debug\net8.0\ref\decision_control.dll

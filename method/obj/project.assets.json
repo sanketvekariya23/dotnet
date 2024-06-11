@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sanket vekariya\\OneDrive\\Desktop\\my_codes\\dotnet\\veriable\\p2.csproj",
-      "projectName": "p2",
-      "projectPath": "C:\\Users\\sanket vekariya\\OneDrive\\Desktop\\my_codes\\dotnet\\veriable\\p2.csproj",
+      "projectUniqueName": "C:\\Users\\sanket vekariya\\OneDrive\\Desktop\\my_codes\\dotnet\\method\\method.csproj",
+      "projectName": "method",
+      "projectPath": "C:\\Users\\sanket vekariya\\OneDrive\\Desktop\\my_codes\\dotnet\\method\\method.csproj",
       "packagesPath": "C:\\Users\\sanket vekariya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sanket vekariya\\OneDrive\\Desktop\\my_codes\\dotnet\\veriable\\obj\\",
+      "outputPath": "C:\\Users\\sanket vekariya\\OneDrive\\Desktop\\my_codes\\dotnet\\method\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sanket vekariya\\AppData\\Roaming\\NuGet\\NuGet.Config"
