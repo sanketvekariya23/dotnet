@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanket vekariya\\OneDrive\\Desktop\\my_codes\\.net\\.net.csproj": {}
+    "C:\\Users\\sanket vekariya\\OneDrive\\Desktop\\my_codes\\dotnet\\p1\\.net.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanket vekariya\\OneDrive\\Desktop\\my_codes\\.net\\.net.csproj": {
+    "C:\\Users\\sanket vekariya\\OneDrive\\Desktop\\my_codes\\dotnet\\p1\\.net.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanket vekariya\\OneDrive\\Desktop\\my_codes\\.net\\.net.csproj",
+        "projectUniqueName": "C:\\Users\\sanket vekariya\\OneDrive\\Desktop\\my_codes\\dotnet\\p1\\.net.csproj",
         "projectName": ".net",
-        "projectPath": "C:\\Users\\sanket vekariya\\OneDrive\\Desktop\\my_codes\\.net\\.net.csproj",
+        "projectPath": "C:\\Users\\sanket vekariya\\OneDrive\\Desktop\\my_codes\\dotnet\\p1\\.net.csproj",
         "packagesPath": "C:\\Users\\sanket vekariya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sanket vekariya\\OneDrive\\Desktop\\my_codes\\.net\\obj\\",
+        "outputPath": "C:\\Users\\sanket vekariya\\OneDrive\\Desktop\\my_codes\\dotnet\\p1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sanket vekariya\\AppData\\Roaming\\NuGet\\NuGet.Config"
