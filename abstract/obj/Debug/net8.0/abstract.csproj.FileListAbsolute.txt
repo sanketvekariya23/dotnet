@@ -1,0 +1,15 @@
+c:\Users\sanket vekariya\OneDrive\Desktop\my_codes\dotnet\abstract\obj\Debug\net8.0\abstract.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\sanket vekariya\OneDrive\Desktop\my_codes\dotnet\abstract\obj\Debug\net8.0\abstract.AssemblyInfoInputs.cache
+c:\Users\sanket vekariya\OneDrive\Desktop\my_codes\dotnet\abstract\obj\Debug\net8.0\abstract.AssemblyInfo.cs
+c:\Users\sanket vekariya\OneDrive\Desktop\my_codes\dotnet\abstract\obj\Debug\net8.0\abstract.csproj.CoreCompileInputs.cache
+c:\Users\sanket vekariya\OneDrive\Desktop\my_codes\dotnet\abstract\obj\Debug\net8.0\abstract.sourcelink.json
+C:\Users\sanket vekariya\OneDrive\Desktop\my_codes\dotnet\abstract\bin\Debug\net8.0\abstract.exe
+C:\Users\sanket vekariya\OneDrive\Desktop\my_codes\dotnet\abstract\bin\Debug\net8.0\abstract.deps.json
+C:\Users\sanket vekariya\OneDrive\Desktop\my_codes\dotnet\abstract\bin\Debug\net8.0\abstract.runtimeconfig.json
+C:\Users\sanket vekariya\OneDrive\Desktop\my_codes\dotnet\abstract\bin\Debug\net8.0\abstract.dll
+C:\Users\sanket vekariya\OneDrive\Desktop\my_codes\dotnet\abstract\bin\Debug\net8.0\abstract.pdb
+C:\Users\sanket vekariya\OneDrive\Desktop\my_codes\dotnet\abstract\obj\Debug\net8.0\abstract.dll
+C:\Users\sanket vekariya\OneDrive\Desktop\my_codes\dotnet\abstract\obj\Debug\net8.0\refint\abstract.dll
+C:\Users\sanket vekariya\OneDrive\Desktop\my_codes\dotnet\abstract\obj\Debug\net8.0\abstract.pdb
+C:\Users\sanket vekariya\OneDrive\Desktop\my_codes\dotnet\abstract\obj\Debug\net8.0\abstract.genruntimeconfig.cache
+C:\Users\sanket vekariya\OneDrive\Desktop\my_codes\dotnet\abstract\obj\Debug\net8.0\ref\abstract.dll

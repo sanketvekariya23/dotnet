@@ -31,7 +31,7 @@ namespace p3{
             string enroll_number =Console.ReadLine();
             Console.WriteLine($"hello {name},  how are you..! /n {enroll_number} is your enrollment number ..");
 
-            String str1 ="india won by 6 run against pakistan ";
+            String str1 ="india won by 7 run against England ";
             Console.WriteLine(str1[2]);
             // Console.WriteLine(str1.IndexOf("india"));
 
